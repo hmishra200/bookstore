@@ -16,12 +16,12 @@ var books = [
         description: 'Chinua Achebe!!!!',
         price: 200 
     }),
-    // new Book({
-    //     imagePath: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/William-Strang-Sindbad-AliBaba-titlepage.JPG/220px-William-Strang-Sindbad-AliBaba-titlepage.JPG',
-    //     title: 'Sinbad the sailor and Ali Baba and the forty thieves',
-    //     description: 'Awesome Book!!!!',
-    //     price: 250 
-    // })
+    new Book({
+        imagePath: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/William-Strang-Sindbad-AliBaba-titlepage.JPG/220px-William-Strang-Sindbad-AliBaba-titlepage.JPG',
+        title: 'Sinbad the sailor and Ali Baba and the forty thieves',
+        description: 'Awesome Book!!!!',
+        price: 250 
+    })
 ];
 
 var done = 0;

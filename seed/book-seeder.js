@@ -22,6 +22,7 @@ var books = [
         description: 'Awesome Book!!!!',
         price: 250 
     })
+    
 ];
 
 var done = 0;
